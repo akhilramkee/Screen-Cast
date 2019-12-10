@@ -1,0 +1,10 @@
+C:\Users\Akhilesh\source\repos\Mainclient_2\Mainclient_2\bin\Release\Mainclient_2.exe.config
+C:\Users\Akhilesh\source\repos\Mainclient_2\Mainclient_2\bin\Release\Mainclient_2.exe
+C:\Users\Akhilesh\source\repos\Mainclient_2\Mainclient_2\bin\Release\Mainclient_2.pdb
+C:\Users\Akhilesh\source\repos\Mainclient_2\Mainclient_2\obj\Release\Mainclient_2.Form1.resources
+C:\Users\Akhilesh\source\repos\Mainclient_2\Mainclient_2\obj\Release\Mainclient_2.Properties.Resources.resources
+C:\Users\Akhilesh\source\repos\Mainclient_2\Mainclient_2\obj\Release\Mainclient_2.csproj.GenerateResource.cache
+C:\Users\Akhilesh\source\repos\Mainclient_2\Mainclient_2\obj\Release\Mainclient_2.csproj.CoreCompileInputs.cache
+C:\Users\Akhilesh\source\repos\Mainclient_2\Mainclient_2\obj\Release\Mainclient_2.exe
+C:\Users\Akhilesh\source\repos\Mainclient_2\Mainclient_2\obj\Release\Mainclient_2.pdb
+C:\Users\Akhilesh\source\repos\Mainclient_2\Mainclient_2\obj\Release\Mainclient_2.csprojAssemblyReference.cache

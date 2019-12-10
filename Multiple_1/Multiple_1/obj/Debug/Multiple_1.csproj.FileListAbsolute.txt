@@ -1,0 +1,10 @@
+C:\Users\Akhilesh\source\repos\Multiple_1\Multiple_1\obj\Debug\Multiple_1.csprojAssemblyReference.cache
+C:\Users\Akhilesh\source\repos\Multiple_1\Multiple_1\obj\Debug\Multiple_1.Form1.resources
+C:\Users\Akhilesh\source\repos\Multiple_1\Multiple_1\obj\Debug\Multiple_1.Properties.Resources.resources
+C:\Users\Akhilesh\source\repos\Multiple_1\Multiple_1\obj\Debug\Multiple_1.csproj.GenerateResource.cache
+C:\Users\Akhilesh\source\repos\Multiple_1\Multiple_1\obj\Debug\Multiple_1.csproj.CoreCompileInputs.cache
+C:\Users\Akhilesh\source\repos\Multiple_1\Multiple_1\bin\Debug\Multiple_1.exe.config
+C:\Users\Akhilesh\source\repos\Multiple_1\Multiple_1\bin\Debug\Multiple_1.exe
+C:\Users\Akhilesh\source\repos\Multiple_1\Multiple_1\bin\Debug\Multiple_1.pdb
+C:\Users\Akhilesh\source\repos\Multiple_1\Multiple_1\obj\Debug\Multiple_1.exe
+C:\Users\Akhilesh\source\repos\Multiple_1\Multiple_1\obj\Debug\Multiple_1.pdb
